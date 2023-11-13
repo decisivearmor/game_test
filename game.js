@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
   canvas.width = 800;
   canvas.height = 400;
   var isGameOver = false;
-  var gameTime = 5; // 制限時間を60秒に設定
+  var gameTime = 60; // 制限時間を60秒に設定
   var lastTime = Date.now();
   var score = 0; // スコアを追跡する変数
 
