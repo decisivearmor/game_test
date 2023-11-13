@@ -1,0 +1,10 @@
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  background: #87CEEB; /* 明るい青色の背景 */
+  display: block;
+  margin: auto;
+}
